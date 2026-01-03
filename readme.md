@@ -1,6 +1,6 @@
 # 🖥️🖥️🖥️ Wellcome to Faketerm
 
-**Faketerm** is a lightweight terminal simulation tool that creates realistic-looking terminal activities. Perfect for presentations, demonstrations, or just having fun with terminal animations.
+**Faketerm** is a lightweight terminal simulation tool that creates realistic-looking terminal activities. Perfect for presentations, demonstrations, or just having fun with terminal animations. It's now supporting **Ubuntu/Fedora**, and any **Linux kernel** which have **tmux** installed.
 
 ## 📸 Preview
 
