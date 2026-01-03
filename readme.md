@@ -4,7 +4,7 @@
 
 ## 📸 Preview
 
-- Introduction video: [Watch on Youtube](https://www.youtube.com)
+- Introduction video: [Watch on Youtube](https://youtu.be/4KqqPAEElM8)
 
 <div align="center">
   <img src="./images/faketerm_01.png" width="600"/>
@@ -69,10 +69,17 @@ This project is open source and available for educational and personal use.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing, Contact
 
 Contributions, issues, and feature requests are welcome!
+If you have any interested idea, feel free to make a contact to me.
+
+My contact info:
+
+- **Email**: [hhc9104@gmail.com](mailto:hhc9104@gmail.com)
 
 ---
 
-**Made with ❤️ for terminal enthusiasts**
+<div align="center">
+  <p>Developed with ❤️ by cggithub333</p>
+</div>
